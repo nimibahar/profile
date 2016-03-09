@@ -1,0 +1,109 @@
+body {
+  background-color: #EBEBEB;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1 {
+  color: #DD5555;
+  font-size: 22px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 14.740px;
+  margin-bottom: 14.740px;
+
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  color: #7D7D7D;
+  font-size: 18px;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #7D7D7D;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+}
+
+table {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+}
+
+
+a {
+  color: #CCCCCC;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #CD625E;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  bottom-margin: 30px;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px;
+  margin: 20px;
+}
+
+.image-circle {
+  height: 120px;
+  border-radius: 50%;
+  margin: 0 auto;
+  border: 3px solid #cccccc;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+.red-btn {
+  background-color: #DD5555;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.red-btn:hover {
+  background-color: red;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
